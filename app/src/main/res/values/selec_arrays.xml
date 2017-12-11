@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="nombres">
+        <item>Sheldom</item>
+        <item>Leonard</item>
+        <item>Howards</item>
+        <item>Rajeh</item>
+        <item>Penny</item>
+        <item>Bernadette</item>
+        <item>Amy</item>
+
+    </string-array>
+
+    <integer-array name="imagenes">
+        <item>@drawable/sheldom</item>
+        <item>@drawable/leonard</item>
+        <item>@drawable/howard</item>
+        <item>@drawable/rajesh</item>
+        <item>@drawable/penny</item>
+        <item>@drawable/bernadette</item>
+        <item>@drawable/amy</item>
+    </integer-array>
+</resources>
